@@ -2,7 +2,7 @@
 
 Site vitrine
 
-GITHUB PAGE : https://mouachek.github.io/P03-VitrineHTML/
+## GITHUB PAGE : https://mouachek.github.io/P03-VitrineHTML/
 
 Sujet :
 
